@@ -1,25 +1,22 @@
 ## Legal disclaimer:
 
-Usage of insTof for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
-
+Utilization of this device is for assaulting targets without earlier shared assent is unlawful. It's the conclusion user's duty to comply all pertinent nearby, state and government laws. Engineers accept no risk and are not mindful for any abuse or harm caused by this program. Thank you 
 ## Getting Started
-1. ```git clone https://github.com/0xfff0800/Brute-force-Instagram-2022.git```
+1. ```git clone https://github.com/Dasistrj/insta-brut-force```
 2. ```pip3 install colorama```
-3. ```cd Brute-force-Instagram-2022```
-4. ```python3 insTof7.py```
+3. ```cd dasistrj.py```
+4. ```python3 dasistrj.py```
 
 
-## A Kali Linux operating system. We recommend :
+## A  operating system. I recommend :
 - Kali Linux 2 or Kali 2022.1 rolling 
 - Cyborg
 - Parrot 
 - BackTrack 
 - Backbox  
-- Android - Trimix
+- Android - Trumx
 - Iphone - python ai 
 
-## BUG ? 
+# Bugs 
 - Please Submit new issue 
-- Contact me on instgram dasistrj
-- 
-
+- Contact me on Instagram dasistrj
