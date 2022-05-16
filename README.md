@@ -4,7 +4,7 @@ Utilization of this device is for assaulting targets without earlier shared asse
 ## Getting Started
 1. ```git clone https://github.com/Dasistrj/insta-brut-force```
 2. ```pip3 install colorama```
-3. ```cd dasistrj.py```
+3. ```cd RJS-brute```
 4. ```python3 dasistrj.py```
 
 
