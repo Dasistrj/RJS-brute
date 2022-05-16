@@ -20,3 +20,12 @@ Utilization of this device is for assaulting targets without earlier shared asse
 # Bugs 
 - Please Submit new issue 
 - Contact me on Instagram dasistrj
+
+# Report
+- The Instgram report is not working at this right now.
+- By the way you can test it out your self by makeing a instagram account and chooseing one of the passwords in the word list to see if works.
+
+#Things to know before
+- report bot is allmost done.
+- I will keep going when you get the password but you can check in the good text file you will see it if you get the password.
+- This tool will ban a user if it has less then 10 follwoers with out report or ban (I am going to publish the report bot soon)
