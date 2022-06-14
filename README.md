@@ -16,6 +16,7 @@ Utilization of this device is for assaulting targets without earlier shared asse
 - Backbox  
 - Android - Trumx
 - Iphone - python ai 
+- google cloud
 
 # Bugs 
 - Please Submit new issue 
